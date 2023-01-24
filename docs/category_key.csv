@@ -1,0 +1,291 @@
+id,name
+1,Actiniaria
+2,Actinernus
+3,Actiniidae
+4,Actinoscyphia
+5,Bolocera
+6,Dofleinia
+7,Hormathiidae
+8,Isosicyonis
+9,Liponema brevicorne
+10,Metridium farcimen
+11,Actinopterygii
+12,Agonidae
+13,Albatrossia pectoralis
+14,Alepocephalus tenebrosus
+15,Anarrhichthys ocellatus
+16,Anoplopoma fimbria
+17,Antimora microlepis
+18,Bathypterois
+19,Bathysaurus mollis
+20,Careproctus
+21,Careproctus kamikawai
+22,Careproctus melanurus
+23,Careproctus ovigerus
+24,Cataetyx
+25,Chaunacops coloratus
+26,Chilara taylori
+27,Coryphaenoides
+28,Gobiidae
+29,Icelinus
+30,Icelinus filamentosus
+31,Lepidion
+32,Liparidae
+33,Lophiiformes
+34,Luciobrotula
+35,Lumpenus sagitta
+36,Macrouridae
+37,Merluccius productus
+38,Moridae
+39,Myctophidae
+40,Nezumia liolepis
+41,Nezumia stelgidolepis
+42,Ophidiidae
+43,Ophiodon elongatus
+44,Paralepididae
+45,Paraliparis
+46,Plectobranchus evides
+47,Porichthys mimeticus
+48,Psychrolutes phrictus
+49,Psychrolutidae
+50,Scorpaeniformes
+51,Sebastes
+52,Sebastolobus
+53,Spectrunculus grandis
+54,Xeneretmus
+55,Zaniolepis frenata
+56,Zaniolepis latipinnis
+57,Anguilliformes
+58,Nettastoma parviceps
+59,Ophichthus frontalis
+60,Synaphobranchidae
+61,Eptatretus
+62,Bothrocara brunneum
+63,Eucryphycus californicus
+64,Lycenchelys
+65,Lycenchelys crotalinus
+66,Lycodapus
+67,Lycodes
+68,Lycodes brevipes
+69,Lycodes cortezianus
+70,Lycodes diapterus
+71,Lycodes pacificus
+72,Pachycara bulbiceps
+73,Zoarcidae
+74,Aeolidiidae sp. 1
+75,Akoya platinum
+76,Bathybembix
+77,Bathydoris aioca
+78,Buccinidae
+79,Caenogastropoda
+80,Dendronotus patricki
+81,Gastropoda
+82,Neptunea-Buccinum Complex
+83,Nudibranchia
+84,Patellogastropoda
+85,Pleurobranchaea californica
+86,Tritonia tetraquetra
+87,Ziminella vrijenhoeki
+88,Asteroidea
+89,Asthenactis
+90,Astropecten
+91,Benthopecten
+92,Ceramaster
+93,Crossaster
+94,Dipsacaster eximius
+95,Dytaster gilberti
+96,Forcipulatida
+97,Goniasteridae
+98,Henricia
+99,Solasteridae
+100,Hippasteria
+101,Hymenaster
+102,Lophaster
+103,Luidia foliolata
+104,Mediaster
+105,Mediaster aequalis
+106,Mediaster tenellus
+107,Myxoderma
+108,Myxoderma platyacanthum
+109,Myxoderma sacculatum
+110,Patiria miniata
+111,Paulasterias mcclaini
+112,Paxillosida
+113,Peribolaster biserialis
+114,Poraniopsis
+115,Poraniopsis inflata
+116,Pterasteridae
+117,Pycnopodia helianthoides
+118,Pythonaster pacificus
+119,Rathbunaster californicus
+120,Stylasterias forreri
+121,Thrissacanthias penicillatus
+122,Valvatida
+123,Zoroasteridae
+124,Antedonidae
+125,Crinoidea
+126,Bathycrinidae
+127,Bathymetrinae
+128,Hyocrinidae
+129,Pentametrocrinus paucispinulus
+130,Abyssocucumis abyssorum
+131,Apostichopus
+132,Apostichopus californicus
+133,Apostichopus leukothele
+134,Benthodytes
+135,Benthothuria
+136,Elpidia
+137,Holothuria (Vaneyothuria) zacae
+138,Holothuroidea
+139,Laetmogone
+140,Oneirophanta mutabilis complex
+141,Paelopatides confundens
+142,Pannychia
+143,Peniagone
+144,Pseudostichopus mollis
+145,Psolidae
+146,Psolus squamatus
+147,Psychronaetes
+148,Psychropotes depressa
+149,Psychropotidae
+150,Scotoplanes
+151,Synallactes
+152,Aporocidaris milleri
+153,Brisaster
+154,Cystechinus giganteus
+155,Cystechinus loveni
+156,Cystocrepis setigera
+157,Echinoidea
+158,Echinocrepis rostrata
+159,Echinothuriidae
+160,Strongylocentrotus fragilis
+161,Tromikosoma
+162,Acanthascinae
+163,Bathydorus
+164,Bolosominae
+165,Caulophacus
+166,Chonelasma
+167,Corbitellinae
+168,Dictyocalyx
+169,Docosaccus maculatus
+170,Euplectellidae
+171,Farrea
+172,Farrea truncata complex
+173,Heterochone calyx
+174,Hexactinellida
+175,Hyalonema
+176,Hyalonema (Corynonema) populiferum
+177,Hyalonema (Oonema) bianchoratum
+178,Lyssacinosida sp. 1
+179,Regadrella
+180,Rossellidae
+181,Sclerothamnopsis
+182,Staurocalyptus
+183,Staurocalyptus solidus
+184,yellow ruffled sponge
+185,Calyptrophora
+186,Chrysogorgia
+187,Chrysogorgia monticola
+188,Chrysogorgia pinnata
+189,Iridogorgia
+190,Isidella
+191,Isidella tentaculum
+192,Isididae
+193,Keratoisis
+194,Lepidisis
+195,Parastenella
+196,Primnoidae
+197,Acanthogorgia
+198,Gorgoniidae
+199,Leptogorgia
+200,Plexauridae
+201,Swiftia
+202,Swiftia kofoidi
+203,Swiftia simplex
+204,Corallium
+205,Paragorgiidae
+206,Paragorgia arborea
+207,Alcyoniidae
+208,Bathyalcyon robustum
+209,Gersemia juliepackardae
+210,Heteropolypus
+211,Heteropolypus ritteri
+212,Clavularia
+213,Stolonifera
+214,Acanthoptilum
+215,Anthoptilum grandiflorum
+216,Anthoptilum lithophilum
+217,Distichoptilum gracile
+218,Funiculina
+219,Funiculina-Halipteris complex
+220,Halipteris californica
+221,Kophobelemnidae
+222,Pennatula
+223,Pennatula phosphorea
+224,Pennatulacea
+225,Protoptilum
+226,Ptilosarcus gurneyi
+227,Stylatula
+228,Umbellula
+229,Virgulariidae
+230,Desmophyllum dianthus
+231,Fungiacyathus (Bathyactis) marenzelleri
+232,Scleractinia
+233,Alternatipathes
+234,Antipatharia
+235,Heteropathes
+236,Lillipathes
+237,Parantipathes
+238,Schizopathidae
+239,Umbellapathes
+240,Brachyura
+241,Cancridae
+242,Chionoecetes tanneri
+243,Chorilia longipes
+244,Macroregonia macrochira
+245,Majidae
+246,Metacarcinus magister
+247,Lithodes couesi
+248,Lithodidae
+249,Neolithodes diomedeae
+250,Paralithodes rathbuni
+251,Paralomis
+252,Paralomis cf. papillata
+253,Paralomis multispina
+254,Paralomis verrilli
+255,Caridea
+256,Eualus macrophthalmus
+257,Pandalus
+258,Pandalus ampla
+259,Pandalus platyceros
+260,Pasiphaea
+261,Plesionika
+262,Calocarides quinqueseriatus
+263,Chirostylidae
+264,Galatheoidea
+265,Munida
+266,Munida bapensis
+267,Munida quadrispina
+268,Munidopsis
+269,Munidopsis depressa
+270,Munidopsis kensmithi
+271,Munidopsis lignaria
+272,Munidopsis recta
+273,Munidopsis scotti
+274,Pleuroncodes planipes
+275,Cirripedia
+276,Scalpellidae
+277,Verum proximum
+278,Pycnogonida
+279,Annelida
+280,Canalipalpata
+281,Echiura
+282,Harmothoe
+283,Hirudinea
+284,Paradiopatra
+285,Peinaleopolynoe orphanae
+286,Polychaeta
+287,Polynoidae
+288,Sabellidae
+289,Serpulidae
+290,Terebellidae
