@@ -24,21 +24,19 @@ The training and validation data provided for the competition come from above an
 
 All three sets of data share the same list of 290 classes. The distribution of classes in the training, validaiton, and test sets are different. Not all classes are garunteed to be in each dataset. 
 
-Competitors are encouraged to use outside data sources as they see fit in training. Validation images are not to be used in training. Any additional data sources or annotations should be specified when submitting results.
-
 ## Evaluation
-Submissions will be evaluated with mean average precision on multilable classification of the test images. Entries should be submitted as csv file with the following format:
+Submissions will be evaluated with [mean average precision](https://kaggle-metrics.readthedocs.io/en/latest/api.html#kaggle_metrics.mean_average_precision) on multilable classification of the test images. Entries should be submitted as csv file with the following format:
 
 ```
-id, [organism_001, organism_002, ..., orgaism_nnn], out-of-sample
-8119e2ac-ca3a-4c3b-9e1c-c7a079a705c8, [1, 146], 0
-711e2891-93a3-4532-a4ea-6e22e335ae54, [17, 82, 251], 1
+id, categories, osd
+8119e2ac-ca3a-4c3b-9e1c-c7a079a705c8, "[1, 146]", 0
+11e2891-93a3-4532-a4ea-6e22e335ae54, "[17, 82, 251]", 1
 ```
 
-`id` is the image's `file_name` as indicated in the COCO-formatted json document. The organism list contains integers denoting all detected categories. The out-of-sample column is a binary prediction of whether or not the image is drawn from a different distribution relative to the training set. 
+`id` is the image's `file_name` as indicated in the COCO-formatted json document. The `categories` should be an ordered list of integers denoting all detected categories. Please note that the list is blocked off in brackets *and* quotation marks. The `osd`, or out-of-sample, column is a binary prediction of whether or not the image is drawn from a different distribution relative to the training set. 
 
 ## Guidelines
-
+Competitors are expected to only use the training images during model training; validation images are only to be used to assess model peformance. Pretrained models can be used for initalizing training (e.g. ImageNet or COCO classification or detection models provided by many deep learning packages). We do encourage participants to leveage outside data sources as they see fit. Teams should plan on specifying additional data sources and/or pretrained models used when uploading results.
 
 ## Annotation format
 The annotations are formatted to adhere to the [COCO Object Detection](https://cocodataset.org/#format-data) standard. We provide a utility for converting the annotation files to YOLO format. 
