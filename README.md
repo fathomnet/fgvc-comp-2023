@@ -10,9 +10,10 @@ The images for both the training and target data were collected by a single came
 ## Competition info
 This competition is presented as part of the [10th Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc10/home) (FGVC10) workshp at [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023) in Vancouver, Canada.  
 
-The leaderboard is hosted on Kaggle [INSERT LINK].
+### Kaggle
+The leaderboard and dataset download is hosted on [Kaggle](http://www.kaggle.com/competitions/fathomnet-out-of-sample-detection).
 
-Please feel free to open an issue on this repo if you have a question, comment, or problem. 
+Please feel free to open a disscussion on the Kaggle page or an issue on this repo if you have a question, comment, or problem. 
 
 ## Dates
 |||
