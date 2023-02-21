@@ -81,9 +81,9 @@ Competitors are expected to only use the training images during model training; 
 By downloading and using this dataset you are agreeing to FathomNet's data use policy. In particular:
 
 - The annotations are licensed under a Creative Commons Attribution-No Derivatives 4.0 International License. 
-- The images are licensed under a Creative Commons Attribution-Non Commercial-No Derivatives 4.0 International.
+- The images are licensed under a Creative Commons Attribution-Non Commercial-No Derivatives 4.0 International License. Notwithstanding the foregoing, all of the images may be used for training and development of machine learning algorithms for commercial, academic, and government purposes.
 - Images and annotations are provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed.
-- Please acknowledge FathomNet and MBARI when using images for publication or communication purposes.
+- Please acknowledge FathomNet and MBARI when using images for publication or communication purposes regarding this competition. For all other uses of the images, users should contact the original copyright holder.
 
 For more details please see the full [FathomNet Use Policy](https://fathomnet.org/fathomnet/#/license). 
 
