@@ -4,7 +4,7 @@ download_images
 
 Script to retrieve images for the 2023 FathomNet out-of-sample challenge as part of FGVC 10. 
 
-Assumes COCO formated annotation file has been download from [INSERT URL HERE] 
+Assumes COCO formated annotation file has been download from http://www.kaggle.com/competitions/fathomnet-out-of-sample-detection
 """
 # Author: Eric Orenstein (eorenstein@mbari.org)
 
