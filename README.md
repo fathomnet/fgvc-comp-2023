@@ -23,7 +23,7 @@ Start Date | March 8, 2023 |
 Submission Deadline | May 23, 2023 | 
 
 ## Dataset details
-The training, validation, and test images for the competition were all collected in the Monterey Bay Area between the surface and 1000 meters depth. The images contain bounding box annotations of 290 categories of bottom dwelling animals. The training and validation data are split across an 800 meter depth threshold: all training data is collected from 0-800 meters, all validation data is collected between 800-1300 meters. Evaluation comes from both regions of the water column. Since an organisms' habitat range is partially a function of depth, the species distributions in the two regions are overlapping but not identical. Test images are drawn from the same region but may come from above or below the depth horizon. 
+The training, validation, and test images for the competition were all collected in the Monterey Bay Area between the surface and 1300 meters depth. The images contain bounding box annotations of 290 categories of bottom dwelling animals. The training and validation data are split across an 800 meter depth threshold: all training data is collected from 0-800 meters, all validation data is collected between 800-1300 meters. Evaluation comes from both regions of the water column. Since an organisms' habitat range is partially a function of depth, the species distributions in the two regions are overlapping but not identical. Test images are drawn from the same region but may come from above or below the depth horizon. 
 
 The competition goal is to label the animals present in a given image (i.e. multi-label classification) and determine whether the image is out-of-sample.    
 ### Data format
