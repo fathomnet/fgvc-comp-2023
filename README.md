@@ -87,6 +87,21 @@ By downloading and using this dataset you are agreeing to FathomNet's data use p
 
 For more details please see the full [FathomNet Use Policy](https://fathomnet.org/fathomnet/#/license). 
 
+### FathomNet citation
+[FathomNet](https://doi.org/10.1038/s41598-022-19939-2)
+```
+@article{katija2022fathomnet,
+  title={FathomNet: A global image database for enabling artificial intelligence in the ocean},
+  author={Katija, Kakani and Orenstein, Eric and Schlining, Brian and Lundsten, Lonny and Barnard, Kevin and Sainz, Giovanna and Boulais, Oceane and Cromwell, Megan and Butler, Erin and Woodward, Benjamin and others},
+  journal={Scientific reports},
+  volume={12},
+  number={1},
+  pages={15914},
+  year={2022},
+  publisher={Nature Publishing Group UK London}
+}
+```
+
 ## Download
 Images are made available for download by the unique URLs in the COCO-formatted object detection annotation files. The download script can be run from the command line: 
 
@@ -97,4 +112,4 @@ $ python download_images.py [PATH/TO/DATASET.json] --output [PATH/TO/IMAGE/DIREC
 If no `--output` directory is specified, the script by default downloads images to the directory the command is executed from. 
 
 ## Acknowledgements
-The images for this competition has been generously provided by [MBARI](https://www.mbari.org/). Annotations were produced by experts in the MBARI Video Lab.
+The images for this competition has been generously provided by [MBARI](https://www.mbari.org/). Annotations were produced by experts in the [MBARI Video Lab](https://doi.org/10.1109/OCEANS.2006.306879).
