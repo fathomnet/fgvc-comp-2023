@@ -56,7 +56,7 @@ We are not able to provide images as a single downloadable archive due to [Fatho
 ## Evaluation
 For each image in the test set, you will predict a list of *categories* belonging to the image and classify whether the image is *out-of-sample*.
 
-The out-of-sample predictions are evaluated by the AUCROC score, rescaled as follows:
+The out-of-sample predictions are evaluated by the [AUCROC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) score, rescaled as follows:
 
 $$sAUC = 2 AUC - 1$$
 
