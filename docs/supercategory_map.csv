@@ -1,0 +1,291 @@
+category_id,name,supercategory
+1,Actiniaria,Anemone
+2,Actinernus,Anemone
+3,Actiniidae,Anemone
+4,Actinoscyphia,Anemone
+5,Bolocera,Anemone
+6,Dofleinia,Anemone
+7,Hormathiidae,Anemone
+8,Isosicyonis,Anemone
+9,Liponema brevicorne,Anemone
+10,Metridium farcimen,Anemone
+11,Actinopterygii,Fish
+12,Agonidae,Fish
+13,Albatrossia pectoralis,Fish
+14,Alepocephalus tenebrosus,Fish
+15,Anarrhichthys ocellatus,Fish
+16,Anoplopoma fimbria,Fish
+17,Antimora microlepis,Fish
+18,Bathypterois,Fish
+19,Bathysaurus mollis,Fish
+20,Careproctus,Fish
+21,Careproctus kamikawai,Fish
+22,Careproctus melanurus,Fish
+23,Careproctus ovigerus,Fish
+24,Cataetyx,Fish
+25,Chaunacops coloratus,Fish
+26,Chilara taylori,Fish
+27,Coryphaenoides,Fish
+28,Gobiidae,Fish
+29,Icelinus,Fish
+30,Icelinus filamentosus,Fish
+31,Lepidion,Fish
+32,Liparidae,Fish
+33,Lophiiformes,Fish
+34,Luciobrotula,Fish
+35,Lumpenus sagitta,Fish
+36,Macrouridae,Fish
+37,Merluccius productus,Fish
+38,Moridae,Fish
+39,Myctophidae,Fish
+40,Nezumia liolepis,Fish
+41,Nezumia stelgidolepis,Fish
+42,Ophidiidae,Fish
+43,Ophiodon elongatus,Fish
+44,Paralepididae,Fish
+45,Paraliparis,Fish
+46,Plectobranchus evides,Fish
+47,Porichthys mimeticus,Fish
+48,Psychrolutes phrictus,Fish
+49,Psychrolutidae,Fish
+50,Scorpaeniformes,Fish
+51,Sebastes,Fish
+52,Sebastolobus,Fish
+53,Spectrunculus grandis,Fish
+54,Xeneretmus,Fish
+55,Zaniolepis frenata,Fish
+56,Zaniolepis latipinnis,Fish
+57,Anguilliformes,Eel
+58,Nettastoma parviceps,Eel
+59,Ophichthus frontalis,Eel
+60,Synaphobranchidae,Eel
+61,Eptatretus,Eel
+62,Bothrocara brunneum,Eel
+63,Eucryphycus californicus,Eel
+64,Lycenchelys,Eel
+65,Lycenchelys crotalinus,Eel
+66,Lycodapus,Eel
+67,Lycodes,Eel
+68,Lycodes brevipes,Eel
+69,Lycodes cortezianus,Eel
+70,Lycodes diapterus,Eel
+71,Lycodes pacificus,Eel
+72,Pachycara bulbiceps,Eel
+73,Zoarcidae,Eel
+74,Aeolidiidae sp. 1,Gastropod
+75,Akoya platinum,Gastropod
+76,Bathybembix,Gastropod
+77,Bathydoris aioca,Gastropod
+78,Buccinidae,Gastropod
+79,Caenogastropoda,Gastropod
+80,Dendronotus patricki,Gastropod
+81,Gastropoda,Gastropod
+82,Neptunea-Buccinum Complex,Gastropod
+83,Nudibranchia,Gastropod
+84,Patellogastropoda,Gastropod
+85,Pleurobranchaea californica,Gastropod
+86,Tritonia tetraquetra,Gastropod
+87,Ziminella vrijenhoeki,Gastropod
+88,Asteroidea,Sea star
+89,Asthenactis,Sea star
+90,Astropecten,Sea star
+91,Benthopecten,Sea star
+92,Ceramaster,Sea star
+93,Crossaster,Sea star
+94,Dipsacaster eximius,Sea star
+95,Dytaster gilberti,Sea star
+96,Forcipulatida,Sea star
+97,Goniasteridae,Sea star
+98,Henricia,Sea star
+99,Solasteridae,Sea star
+100,Hippasteria,Sea star
+101,Hymenaster,Sea star
+102,Lophaster,Sea star
+103,Luidia foliolata,Sea star
+104,Mediaster,Sea star
+105,Mediaster aequalis,Sea star
+106,Mediaster tenellus,Sea star
+107,Myxoderma,Sea star
+108,Myxoderma platyacanthum,Sea star
+109,Myxoderma sacculatum,Sea star
+110,Patiria miniata,Sea star
+111,Paulasterias mcclaini,Sea star
+112,Paxillosida,Sea star
+113,Peribolaster biserialis,Sea star
+114,Poraniopsis,Sea star
+115,Poraniopsis inflata,Sea star
+116,Pterasteridae,Sea star
+117,Pycnopodia helianthoides,Sea star
+118,Pythonaster pacificus,Sea star
+119,Rathbunaster californicus,Sea star
+120,Stylasterias forreri,Sea star
+121,Thrissacanthias penicillatus,Sea star
+122,Valvatida,Sea star
+123,Zoroasteridae,Sea star
+124,Antedonidae,Feather star
+125,Crinoidea,Feather star
+126,Bathycrinidae,Feather star
+127,Bathymetrinae,Feather star
+128,Hyocrinidae,Feather star
+129,Pentametrocrinus paucispinulus,Feather star
+130,Abyssocucumis abyssorum,Sea cucumber
+131,Apostichopus,Sea cucumber
+132,Apostichopus californicus,Sea cucumber
+133,Apostichopus leukothele,Sea cucumber
+134,Benthodytes,Sea cucumber
+135,Benthothuria,Sea cucumber
+136,Elpidia,Sea cucumber
+137,Holothuria (Vaneyothuria) zacae,Sea cucumber
+138,Holothuroidea,Sea cucumber
+139,Laetmogone,Sea cucumber
+140,Oneirophanta mutabilis complex,Sea cucumber
+141,Paelopatides confundens,Sea cucumber
+142,Pannychia,Sea cucumber
+143,Peniagone,Sea cucumber
+144,Pseudostichopus mollis,Sea cucumber
+145,Psolidae,Sea cucumber
+146,Psolus squamatus,Sea cucumber
+147,Psychronaetes,Sea cucumber
+148,Psychropotes depressa,Sea cucumber
+149,Psychropotidae,Sea cucumber
+150,Scotoplanes,Sea cucumber
+151,Synallactes,Sea cucumber
+152,Aporocidaris milleri,Urchin
+153,Brisaster,Urchin
+154,Cystechinus giganteus,Urchin
+155,Cystechinus loveni,Urchin
+156,Cystocrepis setigera,Urchin
+157,Echinoidea,Urchin
+158,Echinocrepis rostrata,Urchin
+159,Echinothuriidae,Urchin
+160,Strongylocentrotus fragilis,Urchin
+161,Tromikosoma,Urchin
+162,Acanthascinae,Glass sponge
+163,Bathydorus,Glass sponge
+164,Bolosominae,Glass sponge
+165,Caulophacus,Glass sponge
+166,Chonelasma,Glass sponge
+167,Corbitellinae,Glass sponge
+168,Dictyocalyx,Glass sponge
+169,Docosaccus maculatus,Glass sponge
+170,Euplectellidae,Glass sponge
+171,Farrea,Glass sponge
+172,Farrea truncata complex,Glass sponge
+173,Heterochone calyx,Glass sponge
+174,Hexactinellida,Glass sponge
+175,Hyalonema,Glass sponge
+176,Hyalonema (Corynonema) populiferum,Glass sponge
+177,Hyalonema (Oonema) bianchoratum,Glass sponge
+178,Lyssacinosida sp. 1,Glass sponge
+179,Regadrella,Glass sponge
+180,Rossellidae,Glass sponge
+181,Sclerothamnopsis,Glass sponge
+182,Staurocalyptus,Glass sponge
+183,Staurocalyptus solidus,Glass sponge
+184,yellow ruffled sponge,Glass sponge
+185,Calyptrophora,Sea fan
+186,Chrysogorgia,Sea fan
+187,Chrysogorgia monticola,Sea fan
+188,Chrysogorgia pinnata,Sea fan
+189,Iridogorgia,Sea fan
+190,Isidella,Sea fan
+191,Isidella tentaculum,Sea fan
+192,Isididae,Sea fan
+193,Keratoisis,Sea fan
+194,Lepidisis,Sea fan
+195,Parastenella,Sea fan
+196,Primnoidae,Sea fan
+197,Acanthogorgia,Sea fan
+198,Gorgoniidae,Sea fan
+199,Leptogorgia,Sea fan
+200,Plexauridae,Sea fan
+201,Swiftia,Sea fan
+202,Swiftia kofoidi,Sea fan
+203,Swiftia simplex,Sea fan
+204,Corallium,Sea fan
+205,Paragorgiidae,Sea fan
+206,Paragorgia arborea,Sea fan
+207,Alcyoniidae,Soft coral
+208,Bathyalcyon robustum,Soft coral
+209,Gersemia juliepackardae,Soft coral
+210,Heteropolypus,Soft coral
+211,Heteropolypus ritteri,Soft coral
+212,Clavularia,Soft coral
+213,Stolonifera,Soft coral
+214,Acanthoptilum,Sea pen
+215,Anthoptilum grandiflorum,Sea pen
+216,Anthoptilum lithophilum,Sea pen
+217,Distichoptilum gracile,Sea pen
+218,Funiculina,Sea pen
+219,Funiculina-Halipteris complex,Sea pen
+220,Halipteris californica,Sea pen
+221,Kophobelemnidae,Sea pen
+222,Pennatula,Sea pen
+223,Pennatula phosphorea,Sea pen
+224,Pennatulacea,Sea pen
+225,Protoptilum,Sea pen
+226,Ptilosarcus gurneyi,Sea pen
+227,Stylatula,Sea pen
+228,Umbellula,Sea pen
+229,Virgulariidae,Sea pen
+230,Desmophyllum dianthus,Stony coral
+231,Fungiacyathus (Bathyactis) marenzelleri,Stony coral
+232,Scleractinia,Stony coral
+233,Alternatipathes,Black coral
+234,Antipatharia,Black coral
+235,Heteropathes,Black coral
+236,Lillipathes,Black coral
+237,Parantipathes,Black coral
+238,Schizopathidae,Black coral
+239,Umbellapathes,Black coral
+240,Brachyura,Crab
+241,Cancridae,Crab
+242,Chionoecetes tanneri,Crab
+243,Chorilia longipes,Crab
+244,Macroregonia macrochira,Crab
+245,Majidae,Crab
+246,Metacarcinus magister,Crab
+247,Lithodes couesi,Crab
+248,Lithodidae,Crab
+249,Neolithodes diomedeae,Crab
+250,Paralithodes rathbuni,Crab
+251,Paralomis,Crab
+252,Paralomis cf. papillata,Crab
+253,Paralomis multispina,Crab
+254,Paralomis verrilli,Crab
+255,Caridea,Shrimp
+256,Eualus macrophthalmus,Shrimp
+257,Pandalus,Shrimp
+258,Pandalus ampla,Shrimp
+259,Pandalus platyceros,Shrimp
+260,Pasiphaea,Shrimp
+261,Plesionika,Shrimp
+262,Calocarides quinqueseriatus,Shrimp
+263,Chirostylidae,Squat lobster
+264,Galatheoidea,Squat lobster
+265,Munida,Squat lobster
+266,Munida bapensis,Squat lobster
+267,Munida quadrispina,Squat lobster
+268,Munidopsis,Squat lobster
+269,Munidopsis depressa,Squat lobster
+270,Munidopsis kensmithi,Squat lobster
+271,Munidopsis lignaria,Squat lobster
+272,Munidopsis recta,Squat lobster
+273,Munidopsis scotti,Squat lobster
+274,Pleuroncodes planipes,Squat lobster
+275,Cirripedia,Barnacle
+276,Scalpellidae,Barnacle
+277,Verum proximum,Barnacle
+278,Pycnogonida,Sea spider
+279,Annelida,Worm
+280,Canalipalpata,Worm
+281,Echiura,Worm
+282,Harmothoe,Worm
+283,Hirudinea,Worm
+284,Paradiopatra,Worm
+285,Peinaleopolynoe orphanae,Worm
+286,Polychaeta,Worm
+287,Polynoidae,Worm
+288,Sabellidae,Worm
+289,Serpulidae,Worm
+290,Terebellidae,Worm
