@@ -9,7 +9,11 @@ For this competition, we have selected data from the broader [FathomNet](https:/
 The images for both the training and target data were collected by a single camera system deployed by the [Monterey Bay Aquarium Research Institute](https://www.mbari.org/) (MBARI) on several of its [Remotely Operated Vehicles](https://www.mbari.org/our-work/technologies/vehicles/?visc-qf-vehicle_tax_filter_technology_type%5B%5D=remotely-operated-vehicle-rov) off the coast of Central California. We encourage participants to leverage outside data sources as they see fit. Teams should plan on specifying additional data sources and/or pretrained models used when uploading results. Pretrained models can be used for initialization of training (e.g. ImageNet or COCO classification or detection models provided by many deep learning packages).
 
 ## Competition info
-This competition is presented as part of the [10th Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc10/home) (FGVC10) Workshop at [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023) in Vancouver, Canada.  
+This competition is part of the Fine-Grained Visual Categorization [FGVC10](https://sites.google.com/view/fgvc10) workshop at the Computer Vision and Pattern Recognition Conference [CVPR 2023](http://cvpr2023.thecvf.com/). A panel will review the top submissions for the competition based on the description of the methods provided. From this, a subset may be invited to present their results at the workshop. Attending the workshop is not required to participate in the competition; however, only teams that are attending the workshop will be considered to present their work.
+
+There is no cash prize for this competition. PLEASE NOTE: CVPR frequently sells out early, we cannot guarantee CVPR registration after the competition's end. If you are interested in attending, please plan ahead.
+
+You can see a list of all of the FGVC10 competitions [here](https://sites.google.com/view/fgvc10/competitions?authuser=0).
 
 ### Kaggle
 The leaderboard and dataset download is hosted on [Kaggle](http://www.kaggle.com/competitions/fathomnet-out-of-sample-detection).
@@ -19,7 +23,7 @@ Please feel free to open a disscussion on the Kaggle page or an issue on this re
 ## Dates
 |||
 |------|---------------:|
-Start Date | March 21, 2023 |
+Start Date | March 23, 2023 |
 Submission Deadline | May 23, 2023 | 
 
 ## Dataset details
