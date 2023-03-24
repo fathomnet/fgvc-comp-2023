@@ -29,14 +29,17 @@ def download_imgs(imgs, outdir=None):
     :return :
     """
 
-    if outdir:
-        if not os.path.exists(outdir):
-            os.mkdir(outdir)
-            logging.info(f"Created directory {outdir}")
-    else:
-        outdir = os.getcwd()
+    # set the out directory to default if not specified
+    if not outdir:
+        outdir = os.path.join(os.getcwd(), 'images')
+
+    # make the directory if it does not exist
+    if not os.path.exists(outdir):
+        os.mkdir(outdir)
+        logging.info(f"Created directory {outdir}")
 
     flag = 0  # keep track of how many image downloaded
+
     for name, url in progressbar.progressbar(imgs):
         file_name = os.path.join(
             outdir, name
@@ -68,6 +71,9 @@ if __name__=="__main__":
         dataset = json.load(ff)
 
     ims = pd.DataFrame(dataset['images'])
+
+    logging.info(f'retrieving {ims.shape[0]} images')
+
     ims = zip(ims['file_name'].to_list(), ims['coco_url'].to_list())
 
     # download images
