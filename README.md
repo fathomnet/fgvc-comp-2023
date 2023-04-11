@@ -121,7 +121,13 @@ For more details please see the full [FathomNet Use Policy](https://fathomnet.or
 ```
 
 ## Download
-Images are made available for download by the unique URLs in the COCO-formatted object detection annotation files. The download script can be run from the command line: 
+Images are made available for download by the unique URLs in the COCO-formatted object detection annotation files. The download script can be run from the command line. To install the requirements with create a virtual environment running `python 3.9`:
+
+```
+$ conda create -n fgvc_test python=3.9 pip
+$ conda activate fgvc_test
+$ pip install -r requirements.txt
+```
 
 ```
 $ python download_images.py [PATH/TO/DATASET.json] --output [PATH/TO/IMAGE/DIRECTORY]
