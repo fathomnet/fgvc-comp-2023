@@ -53,8 +53,6 @@ def download_imgs(imgs, outdir=None):
                 copyfileobj(resp.raw, f)
             flag += 1
 
-    logging.info(f"Downloaded {flag} new images to {outdir}")
-
 
 if __name__=="__main__":
 
@@ -78,3 +76,5 @@ if __name__=="__main__":
 
     # download images
     download_imgs(ims, outdir=args.outpath)
+
+    logging.info(f"Downloaded {flag} new images to {outdir}")
